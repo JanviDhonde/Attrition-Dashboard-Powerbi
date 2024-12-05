@@ -60,7 +60,7 @@ The **Attrition Dashboard** is an interactive data visualization tool created us
    ![Dashboard 1 Preview](https://github.com/JanviDhonde/Attrition-Dashboard-Powerbi/blob/main/Attrition%20Dashboard%201.jpg)
 
 2. Insights on Age, Marital Status, Distance from Home, and Education Fields.  
-   ![Dashboard 2 Preview](attrition-dashboard-2.jpg)
+   ![Dashboard 2 Preview](https://github.com/JanviDhonde/Attrition-Dashboard-Powerbi/blob/main/Attrition%20Dashboard%202.jpg)
 
 ### 🌟 Why This Project Matters
 - Supports HR teams in addressing attrition proactively.  
