@@ -57,7 +57,7 @@ The **Attrition Dashboard** is an interactive data visualization tool created us
 ### 🖼️ Dashboard Preview
 **Dashboard Highlights**:
 1. Attrition Analysis by Department, Business Travel, and Job Roles.  
-   ![Dashboard 1 Preview](attrition-dashboard-1.jpg)
+   ![Dashboard 1 Preview](https://github.com/JanviDhonde/Attrition-Dashboard-Powerbi/blob/main/Attrition%20Dashboard%201.jpg)
 
 2. Insights on Age, Marital Status, Distance from Home, and Education Fields.  
    ![Dashboard 2 Preview](attrition-dashboard-2.jpg)
